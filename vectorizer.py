@@ -3,7 +3,9 @@ import nltk
 import numpy as np
 from weightings import weight
 
-model = fastText.FastText.load_model("../week9/modelBIG.bin")
+model = fastText.FastText.load_model("../model.bin")
+# Replace this location with your fastText pretraied model
+# https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
 
 def convert_word(word):
 	word, tag = word
