@@ -1,0 +1,143 @@
+WEATHER,how is the weather
+WEATHER,is it raining outside
+WEATHER,should i bring an umbrella today
+WEATHER,what degrees is it outside
+WEATHER,what's it like outside
+WEATHER,what's the forecast for this evening
+WEATHER,will it rain today
+GREETING,hey
+GREETING,hi
+GREETING,how are you
+GREETING,hello
+GEETING,hii
+OBJECT,can you tell me about this
+OBJECT,what am i looking at
+OBJECT,what does this do
+OBJECT,what does this object do
+OBJECT,what is this object
+OBJECT,what's this
+TIME,what is the time
+TIME,tell me what the time is
+TIME,what time is it
+DATE,what is the date
+DATE,tell me what the date is
+DATE,what is the date today
+DATE,what date is it
+PAINT,paint me like van gogh
+PAINT,hey paint me like your favourite artist
+PAINT,make a painting of what you see
+PAINT,paint what you see right now
+PAINT,paint me like salvadore dali
+PAINT,paint me how ever you want
+PAINT,make a painting of me
+NEWS,what is going on in the news
+NEWS,give me the latest headlines
+NEWS,tell me the news
+NEWS,can you give me a news update
+NEWS,give me a news flash
+WEATHER, what's the weather today
+WEATHER, what is the weather like
+WEATHER, what's the weather like today
+WEATHER, how is the weather
+WEATHER, how's the weather today
+WEATHER, what is the weather today
+WEATHER, what's the forecast for this evening
+WEATHER, what's the temperature outside
+WEATHER, what's the weather for tomorrow
+WEATHER, what's the weather like tomorrow
+WEATHER, whats the weather
+WEATHER, will it rain tomorrow
+OBJECT,can you tell me more about the 3d printer in sensilab please
+OBJECT,can i have more information about the 3d printer in sensilab
+OBJECT,can you tell me more about the 3d printer in sensilab
+OBJECT,what do you know about sensilab's 3d printer
+OBJECT,tell me everything you know about the 3d printer in sensilab
+OBJECT,can you tell me about the 3d printer
+OBJECT,how does the 3d printer work
+OBJECT,tell me more about the 3d printer
+OBJECT,what's the 3d printer
+OBJECT,tell me about the 3d printer
+OBJECT,what's the 3d printer
+OBJECT,how does the 3d printer work
+OBJECT,what's a 3d printer in sensilab? i want to know more
+OBJECT,what does the 3d printer do
+OBJECT,can you tell me something about the 3d printer
+OBJECT,what does this do
+OBJECT,what can the 3d printer print
+OBJECT,what does the printer do
+OBJECT,search up 3d printer in sensilab
+TIME,can you tell me the time please
+TIME,time
+TIME,what's the time right now
+TIME,can you give me the time
+TIME,what's the time
+TIME,the time now
+TIME,what's the time
+DATE,can you tell me the date please
+DATE,what's the date today
+DATE,what day of the week is it
+DATE,what today's date
+DATE,what day is it today
+DATE,what day is it
+DATE,can you give me the date
+DATE,what's the date
+DATE,the date now
+DATE,date
+DATE,what is the date
+DATE,what is the date today
+PAINT,paint me like one of your van gogh's
+PAINT,how do you paint
+PAINT,give me some information about van gogh
+PAINT,what are van gogh's most famous paintings
+PAINT,could you paint me like van gogh did
+PAINT,paint a tesla in the style of van gogh
+PAINT,surprise me with a van gogh style painting
+PAINT,can you paint some van gogh for me
+PAINT,show me what you can paint in van gogh's style
+PAINT,can you create one of van gogh's paintings
+PAINT,can you paint something within van gogh's stle
+PAINT,can you paint in the style of van gogh
+PAINT,how does van gogh paint
+PAINT,paint a van gogh picture
+PAINT,can you paint a van gogh picture
+PAINT,could you paint in the style of van gogh
+PAINT,paint like van gogh would
+PAINT,can you paint me a picture that looks like the starry night
+PAINT,can you paint me a picture like van gogh
+PAINT,paint me a van gogh like picture
+PAINT,draw like van gogh
+PAINT,show me something that looks like van gogh art
+NEWS,tell me the latest goss
+NEWS,what's going on today
+NEWS,any big news
+NEWS,what's on the news today
+NEWS,what's on today
+NEWS,what's been happening today
+NEWS,what's on the headline
+NEWS,any breaking news
+NEWS,tell me about the latest news
+NEWS,did anything happen in the news today
+NEWS,what's happening around me today
+NEWS,tell me the current news right now
+NEWS,what's happening on the news
+NEWS,tell me about the news
+NEWS,any news
+NEWS,tell me what's on the news
+NEWS,what's happening around the world
+NEWS,what's happening in the world right now
+NEWS,anything interesting on the news
+EVENTS,can you give me the deets for this upcoming event please
+EVENTS,what's the next event
+EVENTS,when's the next event
+EVENTS,what are some of the future events I might be interested in
+EVENTS,what's happening with the next event
+EVENTS,what's the next event going to be
+EVENTS,tell me more about this event
+EVENTS,can you provide me more information about this event
+EVENTS,tell me the details for this event
+EVENTS,what is this event
+EVENTS,tell me what's happening tomorrow
+EVENTS,what events are coming up
+EVENTS,what's on for the week
+EVENTS,tell me about upcoming events
+EVENTS,what's coming up soon
